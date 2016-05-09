@@ -1,3 +1,5 @@
+<?php
+
 /**
  * Pluggable - Email login credentials to a newly-registered user
  *
